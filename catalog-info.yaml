@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: dot-net-web-goof
-  title: .Net Goof
+  title: .Net Web Goof
   description: |
     DotNet service
   labels:
